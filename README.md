@@ -1,5 +1,5 @@
 # 👋🏿 Hi, I am David
-Detail-oriented AI Automation Specialist skilled in optimizing AI-generated data, LLM behavior analysis, and quality assurance. Proficient in building robust automation workflows using low-code platforms and API integration. Committed to driving clarity and precision in AI and data operations
+Detail-oriented AI Automation Specialist I optimize AI-generated data, LLM behavior analysis, and quality assurance. Proficient in building robust automation workflows using low-code platforms and API integration. Committed to driving clarity and precision in AI and data operations
 
 
 
