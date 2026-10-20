@@ -14,7 +14,7 @@ I build and integrate robust systems to empower existing apps with AI... Committ
 
 🔭 &nbsp;I'm currently working on **communications solutions**  
 🌱 &nbsp;I'm currently learning **making faster solutions with compiled programming languages**  
-👯 &nbsp;I'm looking to collaborate on **projects that solves people's problem.**  
+👯 &nbsp;I'm looking to collaborate on **projects that solve people's problems.**  
 💬 &nbsp;Ask me about **Generative AI, AI-Powered workflows, Backend, Desktop apps,...**  
 😄 &nbsp;Pronouns: **He/Him**
 
@@ -22,33 +22,27 @@ I build and integrate robust systems to empower existing apps with AI... Committ
 
 <p align="left">
 
-## Programming Languages
-- JavaScript - TypeScript - Python - C++ - Rust - SQL
+### Programming Languages
+- JavaScript, TypeScript, Python, C++, Rust
 
-## Frontend Development
-- HTML5/CSS3 - React - Tailwind CSS
 
-## Backend Development
+### Frontend Development
+- HTML5/CSS3, React, Tailwind CSS
+
+
+### Backend Development
 - FastAPI
 
-## Databases & Caching
-- PostgreSQL - MySQL - Redis
 
-## DevOps, Deployment & Hosting
-- Docker - Vercel  - Linux
+### Databases & Caching
+- PostgreSQL. MySQL, Redis
 
-## Development Tools & Version Control
+### Development Tools & Version Control
 - Git - GitHub - Visual Studio Code
 
-## API Testing
-- Postman
 
-## Design
-- Figma
-
-## Communication & Collaboration
-- Slack
-</p>
+### Others
+- Postman, Figma, Docker, Vercel, Linux
 
 ### 🔗 Connect With Me
 
